@@ -1,0 +1,3 @@
+export const port = 3000
+
+export const TOKEN_KEY = "6667377337378391001012123213233458888228"
